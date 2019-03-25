@@ -13,7 +13,7 @@ All the commands are runned in the root session.
 # Minimal GNOME Shell
 ![List of all applications](minimal-gnome-installation/minimal-gnome-installation.png)
 
-## Manual install
+## Manual installation
 
 ### Update your OS
 ```
@@ -33,7 +33,7 @@ systemctl set-default graphical.target
 
 Reboot and Voilà!
 
-## Automatic install
+## Automatic installation
 ```
 curl -L https://raw.githubusercontent.com/locobastos/MinimalLinuxDesktopEnvironment/master/minimal-gnome-installation/minimal-gnome-installation.sh | /bin/bash
 ```
