@@ -8,9 +8,12 @@ From Fedora-Workstation-netinst-x86_64-29-1.2.iso
 SHA-1 = bd4c622dc2b2307d836c06bdd43e1279dfbbd83d
 During the installation, choose Minimal and untick everything, if necessary.
 ```
+All the commands are runned in the root session.
 
 # Minimal GNOME Shell
 ![List of all applications](minimal-gnome-installation/minimal-gnome-installation.png)
+
+## Manual install
 
 ### Update your OS
 ```
@@ -29,3 +32,8 @@ systemctl set-default graphical.target
 ```
 
 Reboot and Voilà!
+
+## Automatic install
+```
+curl -L https://raw.githubusercontent.com/locobastos/MinimalLinuxDesktopEnvironment/master/minimal-gnome-installation/minimal-gnome-installation.sh | /bin/bash
+```
