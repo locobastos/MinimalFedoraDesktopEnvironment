@@ -1,5 +1,5 @@
-# MinimalLinuxDesktopEnvironment
-How to install a desktop environment without any software
+# MinimalFedoraDesktopEnvironment
+How to install a desktop environment without any software on Fedora.
 
 # Prerequisites
 I work with a minimal installation of Fedora 30:
