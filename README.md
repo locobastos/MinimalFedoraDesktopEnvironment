@@ -2,10 +2,10 @@
 How to install a desktop environment without any software
 
 # Prerequisites
-I work with a minimal installation of Fedora 29:
+I work with a minimal installation of Fedora 30:
 ```
-From Fedora-Workstation-netinst-x86_64-29-1.2.iso
-SHA-1 = bd4c622dc2b2307d836c06bdd43e1279dfbbd83d
+From Fedora-Workstation-netinst-x86_64-30-1.2.iso
+SHA-1 = DD7C69570CD6F6AE7171F68936AB9982F8613F43
 During the installation, choose Minimal and untick everything, if necessary.
 ```
 All the commands are runned in the root session.
