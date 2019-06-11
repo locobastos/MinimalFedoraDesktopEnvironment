@@ -22,7 +22,7 @@ dnf upgrade -y
 
 ### Install the display server (X.Org) + GNOME Shell
 ```
-dnf install -y xorg-x11-utils xdg-user-dirs gnome-shell
+dnf install -y xorg-x11-utils xdg-user-dirs gnome-shell gnome-backgrounds
 ```
 
 ### Enable GNOME on boot
