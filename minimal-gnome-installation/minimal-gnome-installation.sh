@@ -21,7 +21,7 @@ fi
 dnf upgrade -y
 
 # Install X.Org & GNOME
-dnf install -y gnome-shell xorg-x11-utils xdg-user-dirs gnome-backgrounds
+dnf install -y gnome-shell xorg-x11-utils xdg-user-dirs
 
 # Enable GNOME
 systemctl enable gdm graphical.target
