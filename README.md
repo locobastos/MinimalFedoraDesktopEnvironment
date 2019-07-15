@@ -22,9 +22,8 @@ dnf upgrade -y
 
 ### Install the display server (X.Org) + GNOME Shell
 ```
-dnf install -y xorg-x11-utils xdg-user-dirs gnome-shell gnome-backgrounds
+dnf install -y xorg-x11-utils xdg-user-dirs gnome-shell
 ```
-If you don't install gnome-background, you'll have a blue color background, not very pretty.
 
 ### Enable GNOME on boot
 ```
