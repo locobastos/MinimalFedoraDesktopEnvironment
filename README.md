@@ -1,14 +1,14 @@
-# MinimalFedoraDesktopEnvironment
+# Minimal Fedora Desktop Environment
 How to install a desktop environment without any software on Fedora.
 
 # Prerequisites
-I work with a minimal installation of Fedora 30:
+I work with a minimal installation of Fedora 32:
 ```
-From Fedora-Workstation-netinst-x86_64-30-1.2.iso
-SHA-1 = DD7C69570CD6F6AE7171F68936AB9982F8613F43
+From Fedora-Server-netinst-x86_64-32-1.6.iso
+SHA-256 = 7F4AFD2A26C718F9F15E4BBFD9C2E8849F81036D2A82A4E81FA4A313A833DA9C
 During the installation, choose Minimal and untick everything, if necessary.
 ```
-All the commands are runned in the root session.
+All the commands are executed as root.
 
 # Minimal GNOME Shell
 ![List of all applications](minimal-gnome-installation/minimal-gnome-installation.png)
