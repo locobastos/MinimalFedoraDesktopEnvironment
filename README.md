@@ -4,11 +4,11 @@ How to install a desktop environment without any software on Fedora.
 
 ## Prerequisites
 
-I work with a minimal installation of Fedora 32:
+I work with a minimal installation of Fedora 37:
 
 ```
-From Fedora-Server-netinst-x86_64-32-1.6.iso
-SHA-256 = 421C4C6E23D72E4669A55E7710562287ECD9308B3D314329960F586B89CCCA19
+From Fedora-Server-netinst-x86_64-37-1.7.iso
+SHA-256 = 149D4BAE999022B07BD40F8272F6208BC28884DAD5110C63E915D37458E6ABC0
 During the installation, choose Minimal and untick everything, if necessary.
 ```
 
